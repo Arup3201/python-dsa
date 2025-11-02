@@ -14,3 +14,4 @@
 10. [Sort 0s, 1s and 2s](https://www.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1): [sort012](./lovebabber/test_sort012.py)
 11. [Rearrange Array Elements by Sign](https://www.geeksforgeeks.org/dsa/rearrange-array-alternating-positive-negative-items-o1-extra-space/): [rearrange](./lovebabber/test_rearrange.py)
 12. [Kadane's algorithm](https://www.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1): [maxSubarraySum](./lovebabber/test_maxSubarraySum.py)
+13. [Chocolate Distribution Problem](https://www.geeksforgeeks.org/problems/chocolate-distribution-problem3825/1): [findMidDiff](./lovebabber/test_findMinDiff.py)
