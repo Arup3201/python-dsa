@@ -15,5 +15,5 @@
 11. [Rearrange Array Elements by Sign](https://www.geeksforgeeks.org/dsa/rearrange-array-alternating-positive-negative-items-o1-extra-space/): [rearrange](./lovebabber/test_rearrange.py)
 12. [Kadane's algorithm](https://www.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1): [maxSubarraySum](./lovebabber/test_maxSubarraySum.py)
 13. [Chocolate Distribution Problem](https://www.geeksforgeeks.org/problems/chocolate-distribution-problem3825/1): [findMidDiff](./lovebabber/test_findMinDiff.py)
-14. [Rotate by one clockwise](https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1)
-15. [More than n/k occurances](https://www.geeksforgeeks.org/problems/count-element-occurences/1)
+14. [Rotate by one clockwise](https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1): [rotate](./lovebabber/test_rotate.py)
+15. [More than n/k occurances](https://www.geeksforgeeks.org/problems/count-element-occurences/1): [countOccurance](./lovebabber/test_countOccurence.py)
