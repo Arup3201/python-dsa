@@ -17,3 +17,4 @@
 13. [Chocolate Distribution Problem](https://www.geeksforgeeks.org/problems/chocolate-distribution-problem3825/1): [findMidDiff](./lovebabber/test_findMinDiff.py)
 14. [Rotate by one clockwise](https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1): [rotate](./lovebabber/test_rotate.py)
 15. [More than n/k occurances](https://www.geeksforgeeks.org/problems/count-element-occurences/1): [countOccurance](./lovebabber/test_countOccurence.py)
+16. [Minimize the Heights II](https://www.geeksforgeeks.org/problems/minimize-the-heights3351/1):
