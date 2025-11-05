@@ -16,3 +16,4 @@
 12. [Kadane's algorithm](https://www.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1): [maxSubarraySum](./lovebabber/test_maxSubarraySum.py)
 13. [Chocolate Distribution Problem](https://www.geeksforgeeks.org/problems/chocolate-distribution-problem3825/1): [findMidDiff](./lovebabber/test_findMinDiff.py)
 14. [Rotate by one clockwise](https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1)
+15. [More than n/k occurances](https://www.geeksforgeeks.org/problems/count-element-occurences/1)
