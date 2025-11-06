@@ -18,3 +18,4 @@
 14. [Rotate by one clockwise](https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1): [rotate](./lovebabber/test_rotate.py)
 15. [More than n/k occurances](https://www.geeksforgeeks.org/problems/count-element-occurences/1): [countOccurance](./lovebabber/test_countOccurence.py)
 16. [Minimize the Heights II](https://www.geeksforgeeks.org/problems/minimize-the-heights3351/1):
+17. [Stock buy and sell - Max 2 transactions allowed](https://www.geeksforgeeks.org/problems/buy-and-sell-a-share-at-most-twice/1): [maxProfit](./lovebabber/test_maxProfit2.py)
