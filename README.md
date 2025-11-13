@@ -19,3 +19,6 @@
 15. [More than n/k occurances](https://www.geeksforgeeks.org/problems/count-element-occurences/1): [countOccurance](./lovebabber/test_countOccurence.py)
 16. [Minimize the Heights II](https://www.geeksforgeeks.org/problems/minimize-the-heights3351/1):
 17. [Stock buy and sell - Max 2 transactions allowed](https://www.geeksforgeeks.org/problems/buy-and-sell-a-share-at-most-twice/1): [maxProfit](./lovebabber/test_maxProfit2.py)
+
+## Leetcode (Asked in interview)
+1. [Generate parenthesis](https://leetcode.com/problems/generate-parentheses/description/): [generateParenthesis]()
